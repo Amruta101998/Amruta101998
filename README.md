@@ -1,4 +1,3 @@
-<p align="left"><img src="https://thumbs.gfycat.com/FlusteredSnoopyGuineafowl-max-1mb.gif" alt="Coding"></p>
 
 <h1 align="center">Hi 👋, I'm Amruta Hulagur</h1>
 <h3 align="center">I am a CS PostGraduate Student at PES Modern College of Arts,Science and Commerce,Pune </h3>
