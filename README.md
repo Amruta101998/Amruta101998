@@ -9,8 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/amruta-hulagur-973b9b1b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amruta-hulagur" height="30" width="40" /></a>
-<a href="https://facebook.com/amruta.hulagur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amruta.hulagur" height="30" width="40" /></a>
-<a href="https://instagram.com/hulagur_amruta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hulagur_amruta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
