@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amruta Hulagur</h1>
 <h3 align="center">I am a CS PostGraduate Student at PES Modern College of Arts,Science and Commerce,Pune </h3>
 
-- 📫 How to reach me **hulaguramruta325@gmail.com**
+- 📫 How to reach me **amrutah010@gmail.com**
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1314475/screenshots/3031368/me.gif">
 
